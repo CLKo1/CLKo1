@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CLKo1
 - 👀 I’m interested in interactive music with Max MSP and building new instruments with Arduino based microcontrollers & sensors.
-- 🌱 I’m currently learning new skills as I have ideas for new projects to work on. 
+- 🌱 I’m currently learning new skills as I go while I work on new creative projects. 
 - 📫 How to reach me: https://www.chantelleko.com/contact.html 
 
 <!---
